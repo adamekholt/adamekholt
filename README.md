@@ -1,16 +1,17 @@
-## Hi there 👋
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1a017ebb-be75-4e09-9d84-8dd7fd05c2a8" align="right"/>
 
-<!--
-**adamekholt/adamekholt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><b>Jeg er Adam!</b></p>
 
-Here are some ideas to get you started:
+<p align="center">
+  📚 Utviklerstudent ved Folkuniversitetet Gøteborg
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🛠️ Javascript | React | Html/css | AWS | Node.js | Express.js
+</p>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adamekholt/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>
