@@ -1,50 +1,20 @@
-# Hey, I'm Adam
+<div align="center">
 
-Freshly graduated developer based in Nesodden, Norway. Two years of frontend at Folkuniversitetet Gothenburg, one year of backend at Noroff — currently looking for a junior developer role.
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=Hey,%20I´m%20Adam!&fontAlignY=49" />
 
-## Background
+<br/>
 
-- Frontend Development, Folkuniversitetet Gothenburg (2 years)
+Junior front-end developer | Open for work <br/> 
+Nesodden, Norway <br/>
 
-- Backend Development, Noroff (1 year)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adamekholt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:epostadresse)
+</div>
 
-## Stack
+### Tech stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-JavaScript · TypeScript · React · Next.js · HTML/CSS · Tailwind · Node.js · Express
-
-## Projects
-
-**[Project name]**
-
-[What it does, one sentence. Why you built it, one sentence.]
-
-[Live demo](#) · [Code](#)
-
-**[Project name]**
-
-[What it does, one sentence. Why you built it, one sentence.]
-
-[Live demo](#) · [Code](#)
-
-## What I'm doing now
-
-Building small full-stack projects to tie the frontend and backend sides together, and applying for junior roles where I can keep learning on the job.
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/adamekholt/" title="LinkedIn">
-
-  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-</p>
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=adamekholt&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adamekholt/adamekholt/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/adamekholt/adamekholt/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- 
+### Work & Projects
+- Prosjektnavn - blablabla kort forklaring av hva det går ut på <br/>[[See repo]](https://linkedin.com/in/adamekholt)
+- Prosjektnavn - blablabla kort forklaring av hva det går ut på <br/>[[See repo]](https://linkedin.com/in/adamekholt)
+- Prosjektnavn - blablabla kort forklaring av hva det går ut på <br/>[[See repo]](https://linkedin.com/in/adamekholt) -->
