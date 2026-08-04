@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=Hey,%20I´m%20Adam!&fontAlignY=49" />
-
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=250&color=gradient&text=Hi,%20I´m%20Adam!&fontAlignY=49" />
 <br/>
 
-Junior front-end developer | Open for work <br/> 
-Nesodden, Norway <br/>
+#### Junior front-end developer | Open for work <br/> 📍 Nesodden, Norway <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adamekholt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:epostadresse)
+[LinkedIn](https://linkedin.com/in/adamekholt) | [Email](mailto:adam.ekholt@protonmail.com)
+
 </div>
 
 ### Tech stack
