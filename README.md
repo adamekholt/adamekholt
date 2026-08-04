@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&height=250&color=gradient&text=Hi,%20I´m%20Adam!&fontAlignY=49" />
 <br/>
 
-#### Frontend developer | Open for work <br/> 📍 Nesodden, Norway <br/>
+#### Frontend developer | Open to work <br/> 📍 Nesodden, Norway <br/>
 
 [LinkedIn](https://linkedin.com/in/adamekholt) | [Email](mailto:adam.ekholt@protonmail.com)
 
